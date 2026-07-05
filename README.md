@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24,25,30&&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24,25,30&&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
 </p>
 
 # 💫 Hi 👋, I'm Arjun Rathore
