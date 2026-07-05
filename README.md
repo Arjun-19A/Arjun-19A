@@ -81,7 +81,7 @@ const arjun = {
   <a href="https://github.com/Arjun-19A">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/arjun-rathore-454671326">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:arjun.rathore1812@gmail.com">
