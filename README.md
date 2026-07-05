@@ -1,67 +1,65 @@
-<h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">Student • Developer • Problem Solver</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24,25,30&&"/>
+</p>
+<h1 align="center">Hi 👋, I'm Arjun Rathore</h1>
+<h3 align="center">
+Full Stack Web Developer • Student • Open Source Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+Something+New+Everyday;Building+Projects+%F0%9F%9A%80;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things+🚀;Building+Projects+with+Passion"/>
 </p>
-
----
 
 ## 🚀 About Me
 
-```yaml
-Name: Arjun Rathore
-Role: Student
-Focus: Full Stack Development
-Interests:
-  - Web Development
-  - Open Source
-  - Competitive Programming
-  - UI/UX
+```javascript
+const arjun = {
+  role: "Student",
+  learning: ["AI", "Web Development", "Cloud"],
+  interests: [
+    "Web Development",
+    "Open Source",
+    "UI/UX",
+    "Competitive Programming",
+  ],
+  funFact: "I turn coffee ☕ into code 💻",
+};
 ```
 
----
+## 🌱 Currently Learning
 
-## 🛠 Tech Stack
+- ☁️ Cloud Computing (AWS)
+- ⚛️ Advanced React
+- 🚀 System Design
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css" />
-</p>
-
-### Frameworks & Libraries
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css" />
 </p>
-
-### Database & Cloud
-
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
-
-### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" />
+</p>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjun-19A&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Arjun-19A&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arjun-19A&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-19A&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-19A&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-19A&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -69,46 +67,31 @@ Interests:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-19A&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=Arjun-19A&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🐍 Contributions
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arjun-19A&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/Arjun-19A/Arjun-19A/output/github-contribution-grid-snake-dark.svg">
 </p>
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚀 Project One | Short description | React, Node |
-| 💻 Project Two | Short description | Python |
-| 🤖 AI Project | Short description | TensorFlow |
-
----
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Arjun-19A">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/arjun-rathore-454671326">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:arjun.rathore1812@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
-
----
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Arjun-19A&label=Profile+Views&color=3B82F6&style=for-the-badge"/>
+  <a href="https://github.com/Arjun-19A">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="www.linkedin.com/in/arjun-rathore-454671326">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:arjun.rathore1812@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
 </p>
 
 <p align="center">
 <i>"Code. Learn. Build. Repeat."</i>
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
