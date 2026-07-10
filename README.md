@@ -2,6 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:06B6D4,100:4F46E5&&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 💫 Hi 👋, I'm Arjun Rathore
 
 <p align="center">
@@ -23,6 +25,7 @@ const arjun = {
   funFact: "I turn coffee ☕ into code 💻",
 };
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌱 Currently Learning
 
@@ -30,50 +33,39 @@ const arjun = {
 - ⚛️ Advanced React
 - 🚀 System Design
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" />
-</p>
-
-## 📊 GitHub Analytics
+> *Technologies, frameworks, cloud platforms, developer tools, and infrastructure I work with...*
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arjun-19A&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-19A&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,tailwind,react,redux,vite,nodejs,express,fastapi,mongodb,mysql,postgres,aws,githubactions,vercel,git,github,postman,npm,vscode,figma&perline=8" />
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-19A&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Graph
+## Contribution Graph
+> *Insights into my coding activity, contribution patterns, and engineering consistency over time.*
 
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-19A&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Developer Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arjun-19A&theme=radical" />
 </p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Arjun-19A&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arjun-19A/Arjun-19A/output/github-contribution-grid-snake-dark.svg">
 </p>
+
+<div align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=Arjun-19A&cc=0d0d0d&tc=ffffff&ic=B7B89F&bc=B7B89F" height="165"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me
 
