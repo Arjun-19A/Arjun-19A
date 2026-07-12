@@ -1,9 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:06B6D4,100:4F46E5&&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 # 💫 Hi 👋, I'm Arjun Rathore
 
 <p align="center">
@@ -84,4 +78,3 @@ const arjun = {
 <p align="center">
 <i>"Code. Learn. Build. Repeat."</i>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
