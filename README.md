@@ -41,22 +41,22 @@ const arjun = {
 ## Contribution Graph
 > *Insights into my coding activity, contribution patterns, and engineering consistency over time.*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-19A&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devx-arjun&theme=tokyo-night&hide_border=true"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Developer Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arjun-19A&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=devx-arjun&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arjun-19A/Arjun-19A/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/devx-arjun/devx-arjun/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 <div align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=Arjun-19A&cc=0d0d0d&tc=ffffff&ic=B7B89F&bc=B7B89F" height="165"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=devx-arjunA&cc=0d0d0d&tc=ffffff&ic=B7B89F&bc=B7B89F" height="165"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -64,7 +64,7 @@ const arjun = {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Arjun-19A">
+  <a href="https://github.com/devx-arjun">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
   <a href="https://www.linkedin.com/in/arjun-rathore-454671326/">
